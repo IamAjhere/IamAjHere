@@ -23,8 +23,8 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamAjhere&theme=midnight-purple) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamAjhere&theme=midnight-purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamAjhere&theme=midnight-purple)
 
