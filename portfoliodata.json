@@ -1,0 +1,71 @@
+
+{
+  "about": {
+    "job_title": "Full Stack Engineer & Cloud Computing Enthusiast",
+    "description": "A full stack software engineer from Anuradhapura, Sri Lanka, proficient in MERN stack and AWS. Committed to staying up-to-date and ensuring secure, efficient solutions. Discover my work, skills, and achievements on this website. Let's create extraordinary projects together!"
+  },
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "C#",
+      "PHP",
+      "C",
+      "TypeScript",
+      "Rust",
+      "JavaScript (including JSX)"
+    ],
+    "web_development": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "Wordpress",
+      "React.js",
+      "React + Redux",
+      "Express.js",
+      "Node.js",
+      "GraphQL",
+      "REST APIs",
+      "NestJS"
+    ],
+    "blockchain_cryptocurrency": [
+      "web3",
+      "web3.js",
+      "ether.js",
+      "Solidity",
+      "Solana"
+    ],
+    "database_storage": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "MongoDB"
+    ],
+    "cloud_computing": [
+      "Serverless Computing",
+      "Cloud Security",
+      "Amazon Web Services (AWS)"
+    ],
+    "software_development_processes_methodologies": [
+      "Continuous Integration and Continuous Delivery (CI/CD)",
+      "Software Project Management",
+      "Software Documentation",
+      "Software Development Life Cycle (SDLC)",
+      "Agile Application Development",
+      "Microservices"
+    ],
+    "marketing_seo": [
+      "Social Media Marketing",
+      "Search Engine Optimization (SEO)"
+    ],
+    "frameworks_libraries": [
+      "ASP.NET",
+      "Docker"
+    ],
+    "miscellaneous": [
+      "Microsoft Office",
+      "Adobe Premiere",
+      "Artificial Intelligence (AI)",
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ]
+  }
+}
