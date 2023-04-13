@@ -60,10 +60,16 @@
       "ASP.NET",
       "Docker"
     ],
+    "artificial_intelligence": [
+      "Pytorch",
+      "Keras",
+      "Tensorflow",
+      "Hugging Face"
+      
+    ]
     "miscellaneous": [
       "Microsoft Office",
       "Adobe Premiere",
-      "Artificial Intelligence (AI)",
       "Adobe Photoshop",
       "Adobe Illustrator"
     ]
